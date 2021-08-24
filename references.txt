@@ -1,0 +1,34 @@
+https://github.com/srp98/Dimensionality-Reduction-with-Autoencoder/blob/master/Autoencoder.py
+https://blog.keras.io/building-autoencoders-in-keras.html
+https://towardsdatascience.com/cifar-10-image-classification-in-tensorflow-5b501f7dc77c
+https://medium.com/@pslinge144/representation-learning-cifar-10-23b0d9833c40
+https://github.com/pslinge144/medium/blob/master/zero-shot_learning_1/Representation%20Learning%20-%20Part%202%20-%20CIFAR-10%20Representations.ipynb
+https://medium.com/@pslinge144/representation-learning-cifar-10-23b0d9833c40
+https://blog.keras.io/building-autoencoders-in-keras.html
+https://towardsdatascience.com/cifar-10-image-classification-in-tensorflow-5b501f7dc77c
+https://machinelearningmastery.com/how-to-develop-a-cnn-from-scratch-for-cifar-10-photo-classification/
+https://towardsdatascience.com/autoencoders-in-keras-c1f57b9a2fd7
+
+https://medium.com/analytics-vidhya/building-a-convolutional-autoencoder-using-keras-using-conv2dtranspose-ca403c8d144e !!!
+
+https://www.datacamp.com/community/tutorials/autoencoder-keras-tutorial
+https://github.com/rtflynn/Cifar-Autoencoder/blob/master/denoising_autoencoder.py
+https://seaborn.pydata.org/generated/seaborn.pairplot.html
+https://github.com/gr-b/autoencoder-latent-space-visualization/blob/master/ae.py
+https://blog.keras.io/building-autoencoders-in-keras.html
+https://keras.io/examples/generative/vae/
+https://github.com/Puayny/Autoencoder-image-similarity/blob/master/Autoencoder%2C%20cifar-100%20dataset.ipynb
+https://github.com/rtflynn/Cifar-Autoencoder/blob/master/denoising_autoencoder.py
+https://medium.com/@pslinge144/representation-learning-cifar-10-23b0d9833c40
+https://pandas.pydata.org/pandas-docs/stable/user_guide/merging.html
+https://stats.stackexchange.com/questions/272607/cifar-10-cant-get-above-60-accuracy-keras-with-tensorflow-backend?answertab=votes#tab-top
+https://datascience.stackexchange.com/questions/46819/in-cifar-10-dataset
+
+https://arxiv.org/pdf/1412.6806.pdf PAPER
+
+https://livebook.manning.com/book/machine-learning-with-tensorflow-second-edition/chapter-12/v-5/61
+https://www.kaggle.com/mahtabshaan/autoencoder-as-feature-extractor-cifar10
+
+https://books.google.de/books?id=zUyuDwAAQBAJ&pg=PA188&lpg=PA188&dq=cifar+10+neuron+network+reconstruct+image&source=bl&ots=NyJBw1TcOh&sig=ACfU3U11Ym2dAqBl2eESTjWyx0dNLMDLEg&hl=tr&sa=X&ved=2ahUKEwj2uMmHrbfqAhVINOwKHTtKDjYQ6AEwA3oECAkQAQ#v=onepage&q=cifar%2010%20neuron%20network%20reconstruct%20image&f=false !!!!!!!
+
+https://fairyonice.github.io/Understanding-and-Experimenting-Capsule-Networks.html !!!
